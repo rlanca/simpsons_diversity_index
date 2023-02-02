@@ -1,2 +1,2 @@
 # simpsons_diversity_index
-A fun project counting bugs and using Simpson's Diversity Index
+Finding Simpson's Diversity Index from organisms observed in surveyed plots.
